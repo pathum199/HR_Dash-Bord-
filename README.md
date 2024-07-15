@@ -42,5 +42,5 @@ The HR dashboard provides a comprehensive view of the promotion eligibility land
    HR dashboard identifies areas like gender diversity, retention, and career development for improvement. While the gender ratio is balanced, equal opportunities across levels are needed. Shorter employee tenures suggest retention issues, requiring career development initiatives. Only 4% are eligible for promotion, prompting a review of criteria. High lower-level staff numbers suggest role reviews. Low retrenchment needs support. Proximity aids satisfaction, but support for distant staff is vital for equity, fostering talent and satisfaction.
 
 Pathum Basnayaka<br>
-pathum19990729@gmail.com 
+pathum19990726@gmail.com 
 
